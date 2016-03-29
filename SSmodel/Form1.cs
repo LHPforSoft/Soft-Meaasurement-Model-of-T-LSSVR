@@ -49,7 +49,7 @@ namespace SSmodel
 
 
         public Form1()
-        {
+        { 
             InitializeComponent();
         }
         public static string DataSheetPath = "E:";
