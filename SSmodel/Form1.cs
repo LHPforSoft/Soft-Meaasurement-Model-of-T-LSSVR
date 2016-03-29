@@ -59,7 +59,6 @@ namespace SSmodel
         public int inputNum;
         public int outputNum;//与datasheet表格里边一致，先入 后出
         public int dataLength;
-
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Text = "Advacon System One";
