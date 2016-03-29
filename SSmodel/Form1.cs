@@ -55,7 +55,6 @@ namespace SSmodel
 
         public static string DataSheetPath = "E:";
         static string TParModelPath = "E:";
-
         public double[,] varData;//所有的变量中的数据
         public int inputNum;
         public int outputNum;//与datasheet表格里边一致，先入 后出
