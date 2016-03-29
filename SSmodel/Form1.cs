@@ -52,7 +52,6 @@ namespace SSmodel
         {
             InitializeComponent();
         }
-
         public static string DataSheetPath = "E:";
         static string TParModelPath = "E:";
         public double[,] varData;//所有的变量中的数据
